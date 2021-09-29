@@ -2,4 +2,4 @@
 
 A Simple landing page using Html, Css(Bootstrap)
 
-[view](https://sujaykummari.github.io/Zomato-Landing-Page/)
+[visit](https://sujaykummari.github.io/Zomato-Landing-Page/)
